@@ -3,7 +3,7 @@ var images = [];
 var time = 3000;	
 	 
 // Image List
-images[0] = "../img/process1.jpg";
+images[0] = "../img/hero1024x768.jpg";
 images[1] = "../img/process2.jpg";
 images[2] = "../img/process3.jpg";
 images[3] = "../img/process4.jpg";
